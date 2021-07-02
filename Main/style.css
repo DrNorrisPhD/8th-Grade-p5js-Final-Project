@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+font-face {
+  font-family: 'Walter Turncoat';
+  src: url('http://fonts.googleapis.com/css?family=Walter+Turncoat');
+}
